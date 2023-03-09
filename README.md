@@ -1,4 +1,1 @@
-Hi, I’m @DimosthenisKaramparpas
-I’m interested in Philosophy and electronic arts
-I’m currently learning Python
-I live in Greece, studying at University of Patras.
+Hi, I'm Dimosthenis Karamparpas, a 20-year-old electrical and computer engineering student at the University of Patra. I have experience with Python, C, and Java, and I'm always looking to learn more about programming and technology. In my free time, I enjoy playing chess and building my own projects. I'm passionate about using technology to solve real-world problems and create innovative solutions.
